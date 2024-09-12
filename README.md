@@ -1,6 +1,6 @@
 # Greetings 👋
-### I'm Suresh
 ### Welcome to my GitHub page
+### I'm Suresh
 
 
 - 🎓 Final year student in Sastra University, Tamil nadu, India
