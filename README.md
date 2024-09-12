@@ -1,5 +1,15 @@
-### Greetings 👋
-## I am Suresh
+# Greetings 👋
+### I'm Suresh
+### Welcome to my GitHub page
+
+
+- 🎓 Final year student in Sastra University, Tamil nadu, India
+- 🧑‍🎓 Bachelors in Information Technology
+- 🤩 Interests: Problem-Solving, Data Science, Data Analysis
+- 🧠 Improving and expanding my current skill set
+- 📖 Currently studying front-end languages {HTML, CSS, JavaScript} and Cloud Computing
+- 🧑‍💻 Planning to develop numerous projects in present and future
+
 
 
 <!--
