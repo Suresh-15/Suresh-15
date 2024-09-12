@@ -7,8 +7,8 @@
 - 🧑‍🎓 Bachelors in Information Technology
 - 🤩 Interests: Problem-Solving, Data Science, Data Analysis
 - 🧠 Improving and expanding my current skill set
+- 🧑‍💻 Enjoys developing projects and wants to expand
 - 📖 Currently studying front-end languages {HTML, CSS, JavaScript} and Cloud Computing
-- 🧑‍💻 Planning to develop numerous projects in present and future
 
 
 
