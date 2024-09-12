@@ -3,12 +3,12 @@
 ### I'm Suresh
 
 
-- 🎓 Final year student in Sastra University, Tamil nadu, India
-- 🧑‍🎓 Bachelors in Information Technology
-- 🤩 Interests: Problem-Solving, Data Science, Data Analysis
-- 🧠 Improving and expanding my current skill set
-- 🧑‍💻 Enjoys developing projects and wants to expand
-- 📖 Currently studying front-end languages {HTML, CSS, JavaScript} and Cloud Computing
+- 🎓 Final year student in Sastra University, Tamil nadu, India.
+- 🧑‍🎓 Bachelors in Information Technology.
+- 🤩 Interests: Problem-Solving, Data Science, Data Analysis.
+- 🧠 Improving and expanding my current skill sets.
+- 🧑‍💻 Enjoys developing projects and providing solutions.
+- 📖 Currently studying front-end languages {HTML, CSS, JavaScript} and Cloud Computing.
 
 
 
