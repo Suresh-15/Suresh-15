@@ -8,7 +8,7 @@
 - 🤩 Interests: Problem-Solving, Data Science, Data Analysis.
 - 🧠 Improving and expanding my current skill sets.
 - 🧑‍💻 Enjoys developing projects and providing solutions.
-- 📖 Currently studying front-end languages {HTML, CSS, JavaScript} and Cloud Computing.
+- 📖 Currently studying HTML, CSS, JavaScript and Cloud Computing.
 
 
 
