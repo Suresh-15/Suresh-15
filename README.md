@@ -3,7 +3,7 @@
 ### I'm Suresh
 
 
-- 🎓 Final year student in Sastra University, Tamil nadu, India.
+- 🎓 Final year student in <html><a href="https://www.sastra.edu/">Sastra University, Tamil Nadu, India</a></html>.
 - 🧑‍🎓 Bachelors in Information Technology.
 - 🤩 Interests: Problem-Solving, Data Science, Data Analysis.
 - 🧠 Improving and expanding my current skill sets.
