@@ -9,6 +9,7 @@
 - 🧠 Improving and expanding my current skill sets.
 - 🧑‍💻 Enjoys developing projects and providing solutions.
 - 📖 Currently studying HTML, CSS, JavaScript and Cloud Computing.
+- 🙂 Hobbies: Solving problems in programming platforms and a linguaphile.  
 
 
 
